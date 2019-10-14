@@ -1,0 +1,69 @@
+/* Selector{
+    property: value;
+} */
+body{
+    background-color: #bdc3c7;
+}
+
+h1 {
+  color: #9b59b6;
+}
+h1:hover{
+    color: blue;
+}
+
+h2 {
+    color: orange;
+}
+
+
+li{
+    color:  blue;
+
+}
+li label{
+    float: left;
+}
+
+p {
+    background-color: yellow;
+}
+input {
+    border: 3px solid red;
+    float: left;
+    
+     
+
+}
+label{
+    margin-left: 5px;
+    text-transform: uppercase;
+    
+}
+.hello{
+    background-color: white;
+}
+.special{
+    border: 2px solid blue;
+    color: green;
+    font-size: 100px;
+}
+div{
+    font-size: 25px;
+}
+.Name{
+    background-color: gray;
+}
+.pink{
+    background-color: pink;
+    border: 5px solid white;
+    color: white;
+    font-size: 20px;
+}
+.checkedinput{
+    margin-left: 50px;
+
+}
+a{
+    color: gray;
+}
